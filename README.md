@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @DangChuVM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Xin chào! Mình là DangChuVM
 
-<!---
-DangChuVM/DangChuVM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Học sinh cấp 3, đam mê lập trình và công nghệ.
+
+💻 Hiện đang học:
+- Python
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+🚀 Dự án nổi bật:
+- [mcserver](https://github.com/Dangchuvm/mcserver): Máy chủ Minecraft tùy chỉnh
+
+📫 Liên hệ:
+- Email 1: akirahung905@gmail.com
+- Email 2: dangchinhcbg@gmail.com
+
+✨ Fun fact: Mình thích khám phá các công nghệ mới và chia sẻ kiến thức với mọi người.
