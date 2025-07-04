@@ -8,7 +8,7 @@
 - Git & GitHub
 
 🚀 Dự án nổi bật:
-- [mcserver](https://github.com/Dangchuvm/mcserver): Máy chủ Minecraft tùy chỉnh
+- Không có
 
 📫 Liên hệ:
 - Email 1: akirahung905@gmail.com
